@@ -1,2 +1,2 @@
 # ProgramacionWeb
-Repsoitorio de la clase de programación Web, para trabajo colaborativo
+Repositorio clase de programación Web, para trabajo colaborativo
